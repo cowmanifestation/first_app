@@ -36,5 +36,5 @@ group :test do
 end
 
 group :production do
-  gem 'activerecord-postgresql-adaptor'
+  gem 'activerecord-postgresql-adapter'
 end
